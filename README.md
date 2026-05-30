@@ -1,165 +1,144 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Kumar</h1>
 
 <h3 align="center">
-MCA Graduate | Aspiring Data Analyst | Data Science & Machine Learning Enthusiast
+📊 Aspiring Data Analyst | MCA Graduate | Python & SQL Enthusiast
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=Aspiring+Data+Analyst;Data+Science+Enthusiast;Python+Developer;Machine+Learning+Learner;Open+to+Data+Analyst+Roles&center=true&width=600&height=50">
+  <a href="https://www.linkedin.com/in/priyanshukumardev/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://github.com/priyanshukumar-devloper">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
+  </a>
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Aspiring+Data+Analyst;Python+Developer;SQL+Enthusiast;Data+Visualization+Learner;Open+to+Data+Analyst+Opportunities" />
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## 🚀 About Me
 
-🎓 MCA Graduate
+🔹 MCA Graduate passionate about Data Analytics and Business Intelligence
 
-📊 Aspiring Data Analyst passionate about transforming data into meaningful insights
+🔹 Skilled in transforming raw data into meaningful insights
 
-🐍 Skilled in Python, SQL, Data Analysis, Machine Learning, and Visualization
+🔹 Strong foundation in Python, SQL, Statistics, and Machine Learning
 
-📈 Interested in:
-- Data Analytics
-- Business Intelligence
-- Machine Learning
-- Data Visualization
-- Predictive Analytics
+🔹 Interested in solving real-world business problems using data
 
-🌱 Currently Learning:
-- Advanced SQL
-- Power BI
-- Machine Learning
-- Deep Learning
-- Generative AI
-
-💼 Open To:
-- Data Analyst Roles
-- Business Analyst Roles
-- Data Science Internships
-- Analytics Projects
+🔹 Actively seeking Data Analyst and Business Analyst opportunities
 
 ---
 
-# 🛠️ Skills & Technologies
+## 💻 Tech Stack
 
-## Programming Languages
+### Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,mysql" />
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### Data Analytics
+<p>
+<img src="https://skillicons.dev/icons?i=github,vscode" />
+</p>
 
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+🔹 Pandas  
+🔹 NumPy  
+🔹 Matplotlib  
+🔹 Seaborn  
+🔹 Excel  
+🔹 Power BI
 
----
-
-## Data Analytics
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy)
-
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel)
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi)
-
----
-
-## Machine Learning
-
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn)
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+### Machine Learning
+- Regression
+- Classification
+- Clustering
+- Model Evaluation
+- Feature Engineering
 
 ---
 
-## Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
-
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
-
----
-
-# 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=priyanshukumar-devloper&show_icons=true&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=priyanshukumar-devloper&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshukumar-devloper&layout=compact&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshukumar-devloper&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
-
----
-
-# 🔥 Contribution Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=priyanshukumar-devloper&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshukumar-devloper&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 🚀 Featured Projects
+## 🎯 Current Focus
 
-### 📈 Data Analytics Projects
+✅ Advanced SQL
 
-✔ Sales Analysis Dashboard
+✅ Data Visualization
 
-✔ Customer Segmentation Analysis
+✅ Power BI Dashboards
 
-✔ Data Cleaning & Visualization
+✅ Exploratory Data Analysis
 
-✔ Business Insights Dashboard
+✅ Machine Learning Projects
 
----
-
-### 🤖 Machine Learning Projects
-
-✔ House Price Prediction
-
-✔ Customer Churn Prediction
-
-✔ Sentiment Analysis
-
-✔ Classification & Regression Models
+✅ Interview Preparation for Data Analyst Roles
 
 ---
 
-# 🏆 Certifications
+## 🚀 Featured Projects
 
-✅ Walmart Advanced Software Engineering Job Simulation
+### 📈 Data Analytics
+- Sales Performance Dashboard
+- Customer Segmentation Analysis
+- E-Commerce Data Analysis
+- Business Insights Dashboard
 
-✅ Machine Learning Certifications
-
-✅ Data Analytics Certifications
+### 🤖 Machine Learning
+- House Price Prediction
+- Customer Churn Prediction
+- Sentiment Analysis
+- Classification Models
 
 ---
 
-# 📫 Connect With Me
+## 🏆 Certifications
 
-<p align="left">
+🥇 Walmart Advanced Software Engineering Job Simulation
 
+🥇 Data Analytics Certifications
+
+🥇 Machine Learning Certifications
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
 <a href="https://www.linkedin.com/in/priyanshukumardev/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-Priyanshu%20Kumar-blue?style=for-the-badge&logo=linkedin">
 </a>
-
-<a href="https://github.com/priyanshukumar-devloper">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
-</a>
-
 </p>
 
 ---
 
-# 💡 Career Objective
+<div align="center">
 
-Passionate MCA graduate seeking opportunities in Data Analytics and Data Science where I can apply analytical thinking, data visualization, machine learning, and business intelligence skills to solve real-world problems and drive data-driven decisions.
+### 📈 Turning Data into Decisions
+
+*"Without data, you're just another person with an opinion."* — W. Edwards Deming
+
+</div>
 
 ---
 
 <p align="center">
-⭐ Thanks for visiting my profile ⭐
+  <img src="https://komarev.com/ghpvc/?username=priyanshukumar-devloper&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
